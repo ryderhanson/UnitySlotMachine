@@ -1,0 +1,43 @@
+# Simple flat-color materials
+newmtl MAT_Shaft
+Kd 0.78 0.78 0.78
+Ka 0.15600000000000003 0.15600000000000003 0.15600000000000003
+d 1.0
+illum 1
+
+newmtl MAT_Base
+Kd 0.7 0.7 0.7
+Ka 0.13999999999999999 0.13999999999999999 0.13999999999999999
+d 1.0
+illum 1
+
+newmtl MAT_Deck
+Kd 0.82 0.82 0.82
+Ka 0.164 0.164 0.164
+d 1.0
+illum 1
+
+newmtl MAT_Glass
+Kd 0.31 0.59 0.78
+Ka 0.062 0.118 0.15600000000000003
+d 0.6
+illum 1
+
+newmtl MAT_Cap
+Kd 0.75 0.75 0.75
+Ka 0.15000000000000002 0.15000000000000002 0.15000000000000002
+d 1.0
+illum 1
+
+newmtl MAT_Spire
+Kd 0.63 0.63 0.63
+Ka 0.126 0.126 0.126
+d 1.0
+illum 1
+
+newmtl MAT_Leg
+Kd 0.67 0.67 0.67
+Ka 0.134 0.134 0.134
+d 1.0
+illum 1
+

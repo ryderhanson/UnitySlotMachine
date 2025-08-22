@@ -1,0 +1,73 @@
+# Flat-color materials
+newmtl MAT_Water
+Kd 0.2000 0.4500 0.7500
+Ka 0.0300 0.0675 0.1125
+d 1.000
+illum 1
+
+newmtl MAT_Land
+Kd 0.3000 0.3400 0.3800
+Ka 0.0450 0.0510 0.0570
+d 1.000
+illum 1
+
+newmtl MAT_BldgA
+Kd 0.7500 0.7500 0.7800
+Ka 0.1125 0.1125 0.1170
+d 1.000
+illum 1
+
+newmtl MAT_BldgB
+Kd 0.6200 0.6500 0.6800
+Ka 0.0930 0.0975 0.1020
+d 1.000
+illum 1
+
+newmtl MAT_BldgC
+Kd 0.5000 0.5200 0.5600
+Ka 0.0750 0.0780 0.0840
+d 1.000
+illum 1
+
+newmtl MAT_Stadium
+Kd 0.8500 0.8600 0.8800
+Ka 0.1275 0.1290 0.1320
+d 1.000
+illum 1
+
+newmtl MAT_Cranes
+Kd 0.9500 0.4500 0.1000
+Ka 0.1425 0.0675 0.0150
+d 1.000
+illum 1
+
+newmtl MAT_Wheel
+Kd 0.9200 0.9200 0.9500
+Ka 0.1380 0.1380 0.1425
+d 1.000
+illum 1
+
+newmtl MAT_Needle
+Kd 0.8600 0.8600 0.8800
+Ka 0.1290 0.1290 0.1320
+d 1.000
+illum 1
+
+newmtl MAT_Glass
+Kd 0.3500 0.6500 0.8500
+Ka 0.0525 0.0975 0.1275
+d 0.600
+illum 1
+
+newmtl MAT_Ground
+Kd 0.2500 0.2800 0.3000
+Ka 0.0375 0.0420 0.0450
+d 1.000
+illum 1
+
+newmtl MAT_Pier
+Kd 0.3600 0.3300 0.3000
+Ka 0.0540 0.0495 0.0450
+d 1.000
+illum 1
+
